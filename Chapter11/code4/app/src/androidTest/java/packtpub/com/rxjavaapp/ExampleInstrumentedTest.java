@@ -1,4 +1,4 @@
-package packtpub.com.rxjavaapp;
+package Chapter11.code4.app.src.androidTest.java.packtpub.com.rxjavaapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

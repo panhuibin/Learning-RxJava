@@ -1,4 +1,4 @@
-package packtpub.com.rxjavaapp;
+package Chapter11.code3.app.src.test.java.packtpub.com.rxjavaapp;
 
 import org.junit.Test;
 

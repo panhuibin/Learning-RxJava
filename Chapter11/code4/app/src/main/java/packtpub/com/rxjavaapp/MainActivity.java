@@ -1,4 +1,4 @@
-package packtpub.com.rxjavaapp;
+package Chapter11.code4.app.src.main.java.packtpub.com.rxjavaapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
